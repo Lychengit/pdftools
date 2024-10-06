@@ -1,5 +1,6 @@
 package com.lyc.common.pdfimage.model;
 
+import com.lyc.common.pdfimage.model.monitor.OptRequest;
 import org.apache.pdfbox.cos.COSDocument;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.rendering.PDFRenderer;

@@ -1,5 +1,6 @@
 package com.lyc.common.pdfimage.model;
 
+import com.lyc.common.pdfimage.model.monitor.OptRequest;
 import com.lyc.common.pdfimage.utils.FileUtils;
 import com.lyc.common.pdfimage.utils.weakmap.ReferenceMapEntry;
 import io.netty.util.HashedWheelTimer;

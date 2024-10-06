@@ -1,4 +1,4 @@
-package com.lyc.common.pdfimage.model;
+package com.lyc.common.pdfimage.model.thread;
 
 import org.slf4j.LoggerFactory;
 

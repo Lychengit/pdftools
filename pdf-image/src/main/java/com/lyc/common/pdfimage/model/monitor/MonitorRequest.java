@@ -1,5 +1,6 @@
-package com.lyc.common.pdfimage.model;
+package com.lyc.common.pdfimage.model.monitor;
 
+import com.lyc.common.pdfimage.model.HttpStatus;
 import com.lyc.common.pdfimage.utils.TimeUtils;
 
 import java.util.concurrent.CompletableFuture;

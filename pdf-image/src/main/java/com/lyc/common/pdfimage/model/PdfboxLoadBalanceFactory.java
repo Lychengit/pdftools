@@ -1,9 +1,6 @@
 package com.lyc.common.pdfimage.model;
 
 import com.lyc.common.pdfimage.service.PdfboxAbstractLoadBalance;
-import com.lyc.common.pdfimage.service.impl.PbWeightedLeastTaskRule;
-import com.lyc.common.pdfimage.service.impl.PbWeightedMostSkipTaskRule;
-import com.lyc.common.pdfimage.service.impl.PbWeightedRoundRobinRule;
 
 import java.util.Arrays;
 import java.util.Map;

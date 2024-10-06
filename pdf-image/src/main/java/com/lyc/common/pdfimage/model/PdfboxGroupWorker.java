@@ -1,6 +1,7 @@
 package com.lyc.common.pdfimage.model;
 
 import com.lyc.common.pdfimage.PdfBoxConvertorProvider;
+import com.lyc.common.pdfimage.model.thread.MonitorLongPollingRunnable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

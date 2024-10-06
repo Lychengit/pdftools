@@ -1,6 +1,8 @@
 package com.lyc.common.pdfimage.model;
 
 import com.lyc.common.pdfimage.PdfBoxConvertorProvider;
+import com.lyc.common.pdfimage.model.monitor.MonitorRequest;
+import com.lyc.common.pdfimage.model.monitor.MonitorResponse;
 import io.netty.util.HashedWheelTimer;
 import io.netty.util.Timeout;
 import io.netty.util.TimerTask;

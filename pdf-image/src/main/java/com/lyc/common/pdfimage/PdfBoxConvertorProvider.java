@@ -14,7 +14,7 @@ import com.lyc.common.pdfimage.model.CachePdfboxRendererGroup;
 import com.lyc.common.pdfimage.model.EnumConvertModel;
 import com.lyc.common.pdfimage.model.HashedWheelTimerFactory;
 import com.lyc.common.pdfimage.model.ImageSubsamplingSelector;
-import com.lyc.common.pdfimage.model.MonitorResponse;
+import com.lyc.common.pdfimage.model.monitor.MonitorResponse;
 import com.lyc.common.pdfimage.model.PbCOSNameMapCleanWorker;
 import com.lyc.common.pdfimage.model.PbConvertParamConfig;
 import com.lyc.common.pdfimage.model.PdfRendererTask;

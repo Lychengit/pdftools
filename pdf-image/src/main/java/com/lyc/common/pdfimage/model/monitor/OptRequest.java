@@ -1,4 +1,4 @@
-package com.lyc.common.pdfimage.model;
+package com.lyc.common.pdfimage.model.monitor;
 
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 

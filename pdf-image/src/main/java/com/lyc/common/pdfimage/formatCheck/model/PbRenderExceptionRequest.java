@@ -1,8 +1,8 @@
 package com.lyc.common.pdfimage.formatCheck.model;
 
 import com.lyc.common.pdfimage.formatCheck.handler.AbstractCheckHandler;
-import com.lyc.common.pdfimage.model.MonitorRequest;
-import com.lyc.common.pdfimage.model.MonitorResponse;
+import com.lyc.common.pdfimage.model.monitor.MonitorRequest;
+import com.lyc.common.pdfimage.model.monitor.MonitorResponse;
 
 import java.util.concurrent.CompletableFuture;
 
