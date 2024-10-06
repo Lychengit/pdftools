@@ -13,7 +13,8 @@ com.lyc.common.pdfimage.PdfBoxConvertorProvider.IMAGE_SCALE_MODEL
 
 
 代码示例：
-`com.lyc.common.pdfimage.TestW
+```
+com.lyc.common.pdfimage.TestW
 
 public class TestW {
 
@@ -49,4 +50,5 @@ public class TestW {
 			}
 		}
 	}
-}`
+}
+```
