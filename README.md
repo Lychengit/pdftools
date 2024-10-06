@@ -5,7 +5,7 @@ pdf相关工具类，如pdf转图片等。
 # pdf-image
 支持pdf转图片。
 
-自动管理和缓存pdf的转换实例，实现了增量转换的功能。
+自动管理缓存和过期清除pdf的转换实例，实现了增量转换的功能。
 
 一些静态参数配置，可自定义调控一些转换相关的操作，详情可查看：
 com.lyc.common.pdfimage.model.PbConvertParamConfig
